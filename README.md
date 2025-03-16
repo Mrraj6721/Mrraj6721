@@ -1,7 +1,7 @@
 <h2 align="center">🚀 Hi, I'm Prashant Raj! 👋</h2>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="500"/>
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="350"/>
 </p>
 
 ---
