@@ -33,7 +33,6 @@
 ## 📌 Projects  
 🔹 **Machine Learning Models:** Developed ML models for **customer churn prediction** and **flower classification** using Python & scikit-learn.  
 🔹 **Data Visualization Dashboard:** Created an **interactive Power BI dashboard** for Yhills Company to track business performance.  
-s
 
 ---
 
