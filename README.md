@@ -33,7 +33,7 @@
 ## 📌 Projects  
 🔹 **Machine Learning Models:** Developed ML models for **customer churn prediction** and **flower classification** using Python & scikit-learn.  
 🔹 **Data Visualization Dashboard:** Created an **interactive Power BI dashboard** for Yhills Company to track business performance.  
-🔹 **Web Scraping & Automation:** Built scripts to extract & analyze dynamic web content using **Selenium & BeautifulSoup**.
+s
 
 ---
 
@@ -60,5 +60,3 @@ I'm always open to collaboration, networking, and discussing new ideas!
 - 🎯 Passionate about **solving real-world problems** through **Machine Learning & Data Science**.
 
 ---
-
-🔥 _"Turning raw data into meaningful insights!"_ 🚀  
